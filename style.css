@@ -17,9 +17,11 @@ body {
 }
 
 .search-container {
-    display: flex;
+  position: relative;
+    
     justify-content: center;
     margin-top: 20px;
+    bottom: 20em;
   }
   
   input[type="text"] {
